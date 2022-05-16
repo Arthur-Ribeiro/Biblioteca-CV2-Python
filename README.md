@@ -1,13 +1,13 @@
 # Biblioteca-CV2-Python
 
-      Trabalho realizado
-            
-    Disciplina: Processamento Digital de Imagens
+Trabalho realizado
 
-    Semestre: 2022.1
+Disciplina: Processamento Digital de Imagens
 
-    Aluno: Arthur de Oliveira Ribeiro
+Semestre: 2022.1
 
-    Instituição: CEFET - MG Campus III
+Aluno: Arthur de Oliveira Ribeiro
 
-    link para github: https://github.com/Arthur-Ribeiro
+Instituição: CEFET - MG Campus III
+
+link para github: https://github.com/Arthur-Ribeiro
